@@ -12,7 +12,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ruwina-ranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="ruwina-ranasinghe" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--<img width="35%" align="right" alt="Github" src="https://github.com/Ruwina-Ranasinghe/Ruwina-Ranasinghe/blob/main/avento.gif " />-->
+<img width="35%" align="right" alt="Github" src="https://github.com/Ruwina-Ranasinghe/Ruwina-Ranasinghe/blob/main/coder.gif" />
 
 - 🔭 I’m currently an undergraduate at **Rajarata University of Sri Lanka**
 
