@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center"><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />Hi 👋, I'm Ruwina Ranasinghe</h1>
+<h1 align="center"><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />Hi , I'm Ruwina Ranasinghe</h1>
 
 <h3 align="center">A passionate full Stack developer</h3>
 
@@ -34,7 +34,8 @@
 
 <h2 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Languages and Tools That I Know<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<p align="center">
+<p align
+="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,react,java,js,py,ts,spring,nodejs,mongodb,mysql,aws,idea,eclipse,pycharm,vscode,figma,photoshop,illustrator,postman,git&perline=14" />
   </a>
