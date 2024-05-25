@@ -12,12 +12,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ruwina-ranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="ruwina-ranasinghe" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img width="35%" align="right" alt="Github" src="https://github.com/Ruwina-Ranasinghe/Ruwina-Ranasinghe/blob/main/coder.gif" />
-<!--<img width="20%" align="right" alt="Github" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif" />-->
-
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🔭 I’m currently an undergraduate at **Rajarata University of Sri Lanka**
 
 - 🌱 I’m currently learning **Angular ,Spring Boot**
+
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **ruvinaranasingha94@gmail.com**<p align="left">
 <a href="https://linkedin.com/in/ruwina ranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruwina ranasinghe" height="20" width="30" /></a>
@@ -27,6 +30,25 @@
 
 
 - ⚡ Fun fact **Call me as LATAYA**
+
+
+
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://github.com/Ruwina-Ranasinghe/Ruwina-Ranasinghe/blob/main/coder.gif">
+
+  
+  </td>
+</tr>
+</table>
+
+---
+<!--<img width="35%" align="right" alt="Github" src="https://github.com/Ruwina-Ranasinghe/Ruwina-Ranasinghe/blob/main/coder.gif" />-->
+<!--<img width="20%" align="right" alt="Github" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif" />-->
+
+
 
 
 <br>
