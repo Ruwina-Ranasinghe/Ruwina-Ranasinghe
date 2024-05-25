@@ -13,6 +13,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img width="35%" align="right" alt="Github" src="https://github.com/Ruwina-Ranasinghe/Ruwina-Ranasinghe/blob/main/coder.gif" />
+<!--<img width="20%" align="right" alt="Github" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif" />-->
 
 - 🔭 I’m currently an undergraduate at **Rajarata University of Sri Lanka**
 
