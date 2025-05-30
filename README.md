@@ -18,7 +18,7 @@
   
 - 🔭 I’m currently an undergraduate at **Rajarata University of Sri Lanka**
 
-- 🌱 I’m currently learning **Angular ,Spring Boot**
+- 🌱 I’m currently learning **Next.js ,Three.js**
 
 - 💬 Ask me about **Java**
 
